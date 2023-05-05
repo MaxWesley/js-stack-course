@@ -1,0 +1,13 @@
+{
+  "name": "js-stack-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MaxWesley <mx_wesley@hotmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
